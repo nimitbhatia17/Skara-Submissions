@@ -1,0 +1,18 @@
+{
+  "name": "skara-backend",
+  "version": "1.0.0",
+  "description": "The Server modules for Skara: ONline CLassroom Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimit Bhatia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0",
+    "mongoose-encryption": "^2.0.3"
+  }
+}
